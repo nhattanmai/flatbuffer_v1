@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -Wall -pedantic -Werror -Wextra   CMakeFiles/flattests.dir/src/idl_parser.cpp.o CMakeFiles/flattests.dir/src/idl_gen_text.cpp.o CMakeFiles/flattests.dir/src/reflection.cpp.o CMakeFiles/flattests.dir/src/idl_gen_fbs.cpp.o CMakeFiles/flattests.dir/src/idl_gen_general.cpp.o CMakeFiles/flattests.dir/tests/test.cpp.o  -o flattests -rdynamic 

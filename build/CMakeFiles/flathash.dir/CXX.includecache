@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/flatbuffers/hash.h
+cstdint
+-
+cstring
+-
+
+/home/tanmn2/Workspace/flatbuffers/src/flathash.cpp
+iostream
+-
+sstream
+-
+string
+-
+flatbuffers/hash.h
+/home/tanmn2/Workspace/flatbuffers/src/flatbuffers/hash.h
+stdio.h
+-
+

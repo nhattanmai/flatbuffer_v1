@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -Wall -pedantic -Werror -Wextra   CMakeFiles/flathash.dir/src/flathash.cpp.o  -o flathash -rdynamic 

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/flatbuffers/flatbuffers.h
+assert.h
+-
+cstdint
+-
+cstddef
+-
+cstdlib
+-
+cstring
+-
+string
+-
+type_traits
+-
+vector
+-
+algorithm
+-
+functional
+-
+memory
+-
+
+/home/tanmn2/Workspace/flatbuffers/samples/monster_generated.h
+flatbuffers/flatbuffers.h
+/home/tanmn2/Workspace/flatbuffers/samples/flatbuffers/flatbuffers.h
+
+/home/tanmn2/Workspace/flatbuffers/samples/sample_binary.cpp
+flatbuffers/flatbuffers.h
+/home/tanmn2/Workspace/flatbuffers/samples/flatbuffers/flatbuffers.h
+monster_generated.h
+/home/tanmn2/Workspace/flatbuffers/samples/monster_generated.h
+

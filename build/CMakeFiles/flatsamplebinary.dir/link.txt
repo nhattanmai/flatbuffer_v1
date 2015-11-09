@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -Wall -pedantic -Werror -Wextra   CMakeFiles/flatsamplebinary.dir/samples/sample_binary.cpp.o  -o flatsamplebinary -rdynamic 
